@@ -19,7 +19,7 @@
 }
 .header h1{
     line-height: 70px;
-    color: white;
+    color:tomato;
 
 }
 .content{
@@ -30,7 +30,7 @@
 }
 .content img{
     width: 100%;
-    max-width:1200px;
+    max-width:1500px;
     display:block;
     margin:auto;
 } 
@@ -77,7 +77,7 @@ i{
     color: white;
 }
 .social{
-    margin-top: 330px;
+    margin-top: 380px;
     display: flex;
     border-top: 2px solid rgba(255,255,255,.1);
     justify-content: space-evenly;
